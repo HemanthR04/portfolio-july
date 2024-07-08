@@ -35,7 +35,7 @@ const ProjectCard = () => {
                 projectDetails.map((project, index) => (
                     <motion.div
                     whileHover={{ rotate: 1 }}
-                        key={index} className='w-full md:min-w-[780px]  h-[260px] md:h-[440px] rounded-xl bg-secondary flex flex-col justify-end my-2'>
+                        key={index} className='w-full md:min-w-[780px]  h-[360px] md:h-[440px] rounded-xl bg-secondary flex flex-col justify-end my-2'>
                         <motion.div 
                         whileHover={{ x: 20}}
                         className='py-2 my-2 text-primary '>
