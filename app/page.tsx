@@ -9,7 +9,7 @@ export default function Home() {
     <>
       <main className="flex flex-col items-center justify-start h-screen mx-4">
         <div className="w-full my-4 py-4">
-          <h1 className="text-5xl font-bold tracking-[-4px]  leading-10">MAKING THE WEB A <span className="font-serif italic tracking-normal">COOLER</span> PLACE, ONE SITE AT A TIME!</h1>
+          <h1 className="text-5xl md:text-7xl font-bold tracking-[-4px]  leading-10">MAKING THE WEB A <span className="font-serif italic tracking-normal">COOLER</span> PLACE, ONE SITE AT A TIME!</h1>
           <div className="flex  my-2">
 
             <p className="text-xs ">CURRENTLY A FRONTEND-DEVELOPER AT IBM</p>

@@ -8,7 +8,7 @@ const RecentWork = () => {
                 <h1 className=' font-sans font-bold text-5xl md:text-7xl tracking-[-3px]'>RECENT</h1>
                 <h1 className=' text-5xl md:text-7xl font-serif font-semi '><span className='italic '> W</span>ORK</h1>
             </div>
-            <div className='w-full md:grid md:grid-cols-2 md:gap-x-4 pb-12 mx-4 px-4'>
+            <div className='w-full flex flex-wrap'>
             <ProjectCard/>
             </div>
            
